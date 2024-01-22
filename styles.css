@@ -22,6 +22,23 @@ ul li{
     
 
 }
+.section-two{
+    
+    border: 10px solid red;
+    
+    
+}
+.info-divs{
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+.info-div{
+    border: 2px solid black;
+    
+    
+}
 header{
     color: #003E19 ;
     font-weight: 600;
