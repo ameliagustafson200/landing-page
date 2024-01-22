@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    background-color: #D1EDE1;
+    justify-content: space-between;
+    align-items:center;
+
+    
+}
+.header ul{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+ul li{
+    list-style:none;
+}
