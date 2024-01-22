@@ -18,7 +18,7 @@ ul li{
     
 }
 .section-one{
-    background-color: #D1EDE1;
+    
     
     
 
@@ -63,7 +63,10 @@ body{
     background-size: cover;
 }
 .section-three{
-    
+    border: 20px solid white;
+    background-color: white;
+    text-align: center;
+
 }
 .footer-info{
     color:#64b69c
