@@ -3,6 +3,7 @@
     background-color: #D1EDE1;
     justify-content: space-between;
     align-items:center;
+    
 
     
 }
@@ -23,19 +24,31 @@ ul li{
 
 }
 .section-two{
+    display: flex;
     
-    border: 10px solid red;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 300px;
+    justify-content: center;
+    margin-right:auto;
+    margin-left: auto;
     
     
 }
 .info-divs{
     
     display: flex;
-    flex-direction: column;
+    gap: 60px;
+    flex-direction: row;
+    flex-wrap:wrap;
+    width: 100%;
+    
     
 }
 .info-div{
-    border: 2px solid black;
+  width: 100px;  
+  height: 100px;
+  border: 3px solid #7BC5AE;
     
     
 }
@@ -48,4 +61,10 @@ body{
     margin: 0;
     background-image: url(pexels-mike-marchetti-10255603.jpg);
     background-size: cover;
+}
+.section-three{
+    
+}
+.footer-info{
+    color:#64b69c
 }
