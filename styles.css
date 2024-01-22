@@ -13,4 +13,15 @@
 }
 ul li{
     list-style:none;
+    
+}
+.section-one{
+    background-color: #D1EDE1;
+    
+
+}
+header{
+    color: #003E19 ;
+    font-weight: 600;
+    font-size: large;
 }
