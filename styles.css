@@ -18,7 +18,7 @@ ul li{
     
 }
 .section-one{
-    
+    margin-left: 40px;
     
     
 
@@ -59,15 +59,27 @@ header{
 }
 body{
     margin: 0;
-    background-image: url(pexels-mike-marchetti-10255603.jpg);
-    background-size: cover;
+    
+    
+    
 }
 .section-three{
     border: 20px solid white;
     background-color: white;
     text-align: center;
 
+    
+
+}
+.footer{
+    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-left: 30px;
 }
 .footer-info{
     color:#64b69c
+}
+html{
+    background: url(pexels-mike-marchetti-10255603.jpg) no-repeat center fixed;
+    
 }
